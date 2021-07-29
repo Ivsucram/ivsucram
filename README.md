@@ -7,7 +7,7 @@ Probably I've redirect you here, or you've find me through my contacts. Whatheve
 
 ## `whoami`
 
-### ## `Ivsucram` || `Ivsu` || `Ivs`
+### `Ivsucram` || `Ivsu` || `Ivs`
 
 TODO
 
