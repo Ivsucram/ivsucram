@@ -13,7 +13,7 @@ TODO
 
 ### ⌚ Hours
 
-* I prefer a *hybrid working setting*, where my ideal workweek would have *3 - 4 days in the office*, and *1 - 2 days working home*. I believe that *office hours* are really beneficial for activities where we have to collaborate back-and-forth, while _working from home_ is really helpful for introspective activities, like reading, programming, and similar.
+* I prefer a *hybrid working setting*, where my ideal workweek would have *3 - 4 days in the office*, and *1 - 2 days working from home*. I believe that *office hours* are really beneficial for activities where we have to collaborate back-and-forth, while _working from home_ is really helpful for introspective activities, like reading, programming, and similar.
 
 ### 🗺 Location
 
