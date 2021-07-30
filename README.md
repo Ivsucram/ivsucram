@@ -39,7 +39,7 @@ Previously, I've lived in:
 
 *******
 
-* **My Ph.D. in Machine Learning, where I focus on transfer learning in the multistream environment. You can find some of my projects below**:
+* **My Ph.D. in Machine Learning, where I focus on transfer learning in a multistream environment. You can find some of my projects below**:
 * * [ATL: Autonomous Knowledge Transfer from Many Streaming Processes](https://github.com/Ivsucram/ATL_Matlab) - Matlab version
 * * [ATL: Autonomous Knowledge Transfer from Many Streaming Processes](https://github.com/Ivsucram/ATL_Python) - Python version
 * * Secret Project #1
@@ -47,7 +47,7 @@ Previously, I've lived in:
 
 *******
 
-* **At the same time, I love video games and related topics**. Although I already have developed some projects in the past, I never uploaded them to Github (that small impostor syndrome that we all have), but this is changing! So following are some personal projects which I am workingon right now, and I hope you can use or collaborate in the near future:
+* **At the same time, I love video games and related topics**. Although I already have developed some projects in the past, I never uploaded them to Github (that small impostor syndrome that we all have), but this is changing! So following are some personal projects which I am working on right now, and I hope you can use or collaborate in the near future:
 * * [A multi-plataform emulator written in Rust](https://github.com/Ivsucram/ivsemu): Right now there is only Chip-8 emulation
 * * A 2D game-engine written in Rust (TODO: git)
 
