@@ -1,7 +1,7 @@
 
 # Hi there 👋 Nice to meet you!
 
-Probably I've redirect you here, or you've find me through my contacts. Whathever the case, welcome! Take a look around, and [let me know if you have any question](mailto:ivsucram@gmail.com). Looking forward to working with you!
+Probably I've redirect you here, or you've find me through my contacts. Whatever the case, welcome! Take a look around, and [let me know if you have any question](mailto:ivsucram@gmail.com). Looking forward to working with you!
 
 *******
 
